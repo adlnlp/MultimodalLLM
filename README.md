@@ -15,4 +15,4 @@
 ```
 
 ## Slides
-[Slide](https://github.com/adlnlp/MultimodalLLM/blob/a1fa8166155923ebc78ef172e74fa1cb37732b7a/ACM%20MM_%20Multimodal%20Large%20Language%20Models%20and%20Tunings_tutorial.pdf)
+[Download the Slide](https://github.com/adlnlp/MultimodalLLM/blob/a1fa8166155923ebc78ef172e74fa1cb37732b7a/ACM%20MM_%20Multimodal%20Large%20Language%20Models%20and%20Tunings_tutorial.pdf)
