@@ -1,5 +1,5 @@
 # MultimodalLLM
-
+This tutorial has been presented in the ACM Multimedia 2024 and AAAI 2025 (expected)
 
 
 ## Citation
